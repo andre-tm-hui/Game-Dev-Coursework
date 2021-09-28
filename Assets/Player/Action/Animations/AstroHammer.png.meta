@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 5151b2fe118858f4e996d08289311b1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5608830932632307324
+    second: AstroHammer_0
+  - first:
+      213: 7216867032574587148
+    second: AstroHammer_1
+  - first:
+      213: -9062973424990899878
+    second: AstroHammer_2
+  - first:
+      213: 3072829723713575029
+    second: AstroHammer_3
+  - first:
+      213: 2736190102439227128
+    second: AstroHammer_4
+  - first:
+      213: -5361325867732160616
+    second: AstroHammer_5
+  - first:
+      213: -9147399656365835362
+    second: AstroHammer_6
+  - first:
+      213: -2758136174795124596
+    second: AstroHammer_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AstroHammer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 892
+        height: 806
+      alignment: 9
+      pivot: {x: 0.128, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a26fae97fa6cd4a88d7127ff34ad55
+      internalID: -5608830932632307324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstroHammer_1
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 892
+        height: 806
+      alignment: 9
+      pivot: {x: 0.128, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6296c275ecf8d458d0dc48940a8e39
+      internalID: 7216867032574587148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstroHammer_2
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 0
+        width: 892
+        height: 806
+      alignment: 9
+      pivot: {x: 0.128, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5313e722533fbef49b299bc375f55df6
+      internalID: -9062973424990899878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstroHammer_3
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 0
+        width: 892
+        height: 806
+      alignment: 9
+      pivot: {x: 0.128, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6135d573ba5e4d49a6a42cea7b5dcc6
+      internalID: 3072829723713575029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstroHammer_4
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 0
+        width: 892
+        height: 806
+      alignment: 9
+      pivot: {x: 0.128, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc57a0959bb03ca41858d9f3b404519b
+      internalID: 2736190102439227128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstroHammer_5
+      rect:
+        serializedVersion: 2
+        x: 4513
+        y: 0
+        width: 892
+        height: 806
+      alignment: 9
+      pivot: {x: 0.128, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c56d3dbd476f940b728d95cbd35ebd
+      internalID: -5361325867732160616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstroHammer_6
+      rect:
+        serializedVersion: 2
+        x: 5412
+        y: 0
+        width: 892
+        height: 806
+      alignment: 9
+      pivot: {x: 0.128, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c68962136822874bb549e7bd76652ac
+      internalID: -9147399656365835362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AstroHammer_7
+      rect:
+        serializedVersion: 2
+        x: 6314
+        y: 0
+        width: 892
+        height: 806
+      alignment: 9
+      pivot: {x: 0.128, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee708393f313274ea7e4e5afac4d840
+      internalID: -2758136174795124596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

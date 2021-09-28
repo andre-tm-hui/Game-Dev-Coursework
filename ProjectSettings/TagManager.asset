@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mob
+  - PlayerWeapon
+  - Hittable
+  - Grapple
+  - DamageSource
+  - SpawnPoint
+  - Rooms
+  - Grid
+  - Boss
+  - HUD
+  - EnemyProjectile
+  - BossName
+  - BossHealth
+  - AStar
+  - Level
+  - Pause
+  - Upgrade
+  - WinScreen
+  - FinalTime
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - Player
+  - PlayerBullets
+  - Enemy
+  - PlayerWeapon
+  - BackgroundObject
+  - Obstacle
+  - EnemyProjectile
+  - ForegroundObject
+  - PickupObject
+  - LevelHazards
+  - NonContact
+  - PlayerShield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background2
+    uniqueID: 3219921491
+    locked: 0
+  - name: Background1
+    uniqueID: 2946079053
+    locked: 0
+  - name: MoleBoss
+    uniqueID: 3997290413
+    locked: 0
+  - name: ForegroundObjects
+    uniqueID: 200629789
+    locked: 0
+  - name: Foreground
+    uniqueID: 475139715
+    locked: 0
+  - name: Ground
+    uniqueID: 2034659645
+    locked: 0
+  - name: HUD
+    uniqueID: 3238856405
+    locked: 0
